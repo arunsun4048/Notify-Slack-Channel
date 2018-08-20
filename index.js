@@ -2,7 +2,7 @@ var url = require('url');
 var https = require('https');
 var util = require('util');
 var Intercom = require('intercom-client');
-//comment
+//comment sample
 var POST_OPTIONS = {
     hostname: 'hooks.slack.com',
     path: process.env.SLACK_WEBHOOK,
