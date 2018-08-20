@@ -3,7 +3,7 @@ var https = require('https');
 var util = require('util');
 var Intercom = require('intercom-client');
 
-//This is the body for develop is -> this
+//This is the body for develop is -> this simple
 
 var POST_OPTIONS = {
     hostname: 'hooks.slack.com',
